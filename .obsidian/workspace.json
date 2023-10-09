@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "892099fdf3f39ca0",
+    "id": "20dddd67cfba792b",
     "type": "split",
     "children": [
       {
-        "id": "e18b9924cb52aa71",
+        "id": "f41856a4ac96a667",
         "type": "tabs",
         "children": [
           {
-            "id": "33f42723d694843f",
+            "id": "15e91b8eb6f7af57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEEK 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8342bafae897c307",
+    "id": "6395c754ecf22bee",
     "type": "split",
     "children": [
       {
-        "id": "1e45577c9c930b50",
+        "id": "45bccc60beb2c751",
         "type": "tabs",
         "children": [
           {
-            "id": "cf2887529845745b",
+            "id": "775695b7b461c393",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "135b800f8d5abdc0",
+            "id": "a2eac2abe6bdc1be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "6b4115ebac15af60",
+            "id": "b8df925f0920064f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "85d80d6d3154b9ae",
+    "id": "4ccbf4afc7d20ddb",
     "type": "split",
     "children": [
       {
-        "id": "950f4b7a39efcaf3",
+        "id": "1ca8e74810e7c064",
         "type": "tabs",
         "children": [
           {
-            "id": "5530de2b425d7ea3",
+            "id": "a7e90f4d3f1242cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEEK 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "21c1fb61271152eb",
+            "id": "da5d5a2ff1ea970f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEEK 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "94d319e146aeccce",
+            "id": "949c836fb60de311",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "b225c56b6a7cee30",
+            "id": "fc0f242da50bd7c8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WEEK 1 Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33f42723d694843f",
+  "active": "15e91b8eb6f7af57",
   "lastOpenFiles": [
-    "Types of Values.md",
-    "WEEK 1 Notes.md",
     "WEEK2",
-    "Sources of Data.md",
-    "Examples.md",
-    "Types of Datasets.md",
-    "Types of Data.md",
-    "Kaggle.com.md"
+    "untitled folder"
   ]
 }
