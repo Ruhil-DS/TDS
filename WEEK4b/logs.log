@@ -1,0 +1,36 @@
+2023-11-03 01:10:57,181:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-03 01:10:57,181:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-03 01:10:57,182:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-03 01:10:57,182:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-11-03 01:11:14,465:INFO:PyCaret ClassificationExperiment
+2023-11-03 01:11:14,466:INFO:Logging name: clf-default-name
+2023-11-03 01:11:14,466:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2023-11-03 01:11:14,467:INFO:version 3.1.0
+2023-11-03 01:11:14,467:INFO:Initializing setup()
+2023-11-03 01:11:14,467:INFO:self.USI: 3d4b
+2023-11-03 01:11:14,467:INFO:self._variable_keys: {'pipeline', 'exp_name_log', 'y_train', 'y', 'memory', 'fold_groups_param', 'exp_id', 'data', 'X', 'fold_shuffle_param', 'target_param', 'idx', 'log_plots_param', 'fix_imbalance', 'is_multiclass', 'html_param', 'n_jobs_param', 'gpu_param', '_available_plots', 'gpu_n_jobs_param', 'y_test', 'seed', '_ml_usecase', 'logging_param', 'fold_generator', 'USI', 'X_test', 'X_train'}
+2023-11-03 01:11:14,467:INFO:Checking environment
+2023-11-03 01:11:14,467:INFO:python_version: 3.9.13
+2023-11-03 01:11:14,467:INFO:python_build: ('main', 'Aug 25 2022 18:29:29')
+2023-11-03 01:11:14,467:INFO:machine: x86_64
+2023-11-03 01:11:14,468:INFO:platform: macOS-10.16-x86_64-i386-64bit
+2023-11-03 01:11:14,468:INFO:Memory: svmem(total=8589934592, available=2308222976, percent=73.1, used=4116992000, free=39022592, active=2270134272, inactive=2197536768, wired=1846857728)
+2023-11-03 01:11:14,468:INFO:Physical Core: 2
+2023-11-03 01:11:14,468:INFO:Logical Core: 4
+2023-11-03 01:11:14,468:INFO:Checking libraries
+2023-11-03 01:11:14,468:INFO:System:
+2023-11-03 01:11:14,469:INFO:    python: 3.9.13 (main, Aug 25 2022, 18:29:29)  [Clang 12.0.0 ]
+2023-11-03 01:11:14,469:INFO:executable: /Users/PushpakRuhil/opt/anaconda3/bin/python
+2023-11-03 01:11:14,469:INFO:   machine: macOS-10.16-x86_64-i386-64bit
+2023-11-03 01:11:14,469:INFO:PyCaret required dependencies:
+2023-11-03 01:37:17,161:INFO:Initializing get_config()
+2023-11-03 01:37:17,163:INFO:get_config(self=<pycaret.classification.oop.ClassificationExperiment object at 0x7f8a93d44c40>, variable=X_train)
+2023-11-03 01:37:17,164:INFO:Variable: 'X_train' used to return the transformed values in PyCaret 2.x. From PyCaret 3.x, this will return the raw values. If you need the transformed values, call get_config with 'X_train_transformed' instead.
+2023-11-03 01:37:17,165:WARNING:/Users/PushpakRuhil/opt/anaconda3/lib/python3.9/site-packages/pycaret/internal/pycaret_experiment/pycaret_experiment.py:321: UserWarning: Variable: 'X_train' used to return the transformed values in PyCaret 2.x. From PyCaret 3.x, this will return the raw values. If you need the transformed values, call get_config with 'X_train_transformed' instead.
+  warnings.warn(msg)  # print on screen
+
+2023-11-03 01:37:49,311:INFO:gpu_param set to False
